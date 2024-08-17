@@ -24,12 +24,10 @@ redirect_from:
 
 # 科研经历
 ## 论文
-- Qin Wang, Jianzhou Feng, Ganlin Xu, Lei Huang.2023. Two-Phase Semantic Retrieval For Explainable Multi-Hop 
-Question Answering, in proceeding of the 30th ICONIP. 
-- Jianzhou Feng, Qin Wang, Huaxiao Qiu, Lirong Liu. Retrieval In Decoder benefits generative models for explainable question answering. Neural Networks.
-- Jianzhou Feng, Qin Wang, Yiming Xu.2023. A Correlation-Augmented Iterative Model For Entailment Tree Explanation. Applied Intelligence.
-- Jianzhou Feng, Ganlin Xu, Qin Wang, Lei Huang, Yuzhuo Yang. Note the Hierarchy:Taxonomy-Guided Prototype for 
-Few Shot Named Entity Recognition. Information Processing & Management.
+- Qin Wang, Jianzhou Feng, Ganlin Xu, Lei Huang.2023. Two-Phase Semantic Retrieval For Explainable Multi-Hop Question Answering, in proceeding of the 30th ICONIP. 
+- Jianzhou Feng, Qin Wang, Huaxiao Qiu, Lirong Liu. Retrieval In Decoder benefits generative models for explainable question answering. Neural Networks. (under review)
+- Jianzhou Feng, Qin Wang, Yiming Xu.2023. A Correlation-Augmented Iterative Model For Entailment Tree Explanation. Applied Intelligence. (under review)
+- Jianzhou Feng, Ganlin Xu, Qin Wang, Lei Huang, Yuzhuo Yang. Note the Hierarchy:Taxonomy-Guided Prototype for Few Shot Named Entity Recognition. Information Processing & Management.
 
 ## 专利
 - 冯建周，王琴，徐甘霖. 一种使用两阶段检索的文本多跳推理问答方法 (2023.7.22,实质审查)
