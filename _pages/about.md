@@ -65,6 +65,7 @@ Few Shot Named Entity Recognition. Information Processing & Management.
 - 成果：本项目获得 2022 年"中国软件杯"大学生软件设计大赛全国三等奖。
 
  # 结束
+ 
  路漫漫其修远兮，吾将上下而求索
 
 
